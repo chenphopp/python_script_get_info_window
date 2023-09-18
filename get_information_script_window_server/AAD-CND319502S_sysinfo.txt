@@ -1,0 +1,1025 @@
+DATE: 2023-09-18
+TIME: 13:47:10
+
+Environment Variables
+-------------------------
+ALLUSERSPROFILE=C:\ProgramData
+APPDATA=C:\Users\515259\AppData\Roaming
+CHROME_CRASHPAD_PIPE_NAME=\\.\pipe\LOCAL\crashpad_26588_FZZBFUXBGJENYCRJ
+COMMONPROGRAMFILES=C:\Program Files (x86)\Common Files
+COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files
+COMMONPROGRAMW6432=C:\Program Files\Common Files
+COMPUTERNAME=AAD-CND319502S
+COMSPEC=C:\Windows\system32\cmd.exe
+DRIVERDATA=C:\Windows\System32\Drivers\DriverData
+FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+FPS_BROWSER_USER_PROFILE_STRING=Default
+HOMEDRIVE=C:
+HOMEPATH=\Users\515259
+LOCALAPPDATA=C:\Users\515259\AppData\Local
+LOGONSERVER=\\AAD-CND319502S
+NEXTHINK=C:\Program Files\Nexthink\Collector
+NUMBER_OF_PROCESSORS=16
+ONEDRIVE=C:\Users\515259\OneDrive - Alstom
+ONEDRIVECOMMERCIAL=C:\Users\515259\OneDrive - Alstom
+ORIGINAL_XDG_CURRENT_DESKTOP=undefined
+OS=Windows_NT
+PATH=C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Azure Data Studio\bin;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Users\515259\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Multipass\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2023.2\bin;;C:\Program Files\Azure Data Studio\bin;C:\Users\515259\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\515259\AppData\Local\Programs\Python\Python311\;
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL
+PROCESSOR_ARCHITECTURE=x86
+PROCESSOR_ARCHITEW6432=AMD64
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 141 Stepping 1, GenuineIntel
+PROCESSOR_LEVEL=6
+PROCESSOR_REVISION=8d01
+PROGRAMDATA=C:\ProgramData
+PROGRAMFILES=C:\Program Files (x86)
+PROGRAMFILES(X86)=C:\Program Files (x86)
+PROGRAMW6432=C:\Program Files
+PSMODULEPATH=C:\Users\515259\Documents\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Microsoft Azure Information Protection\Powershell;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\PowerShell\Modules\
+PUBLIC=C:\Users\Public
+PYCHARM COMMUNITY EDITION=C:\Program Files\JetBrains\PyCharm Community Edition 2023.2\bin;
+SESSIONNAME=Console
+SYSTEMDRIVE=C:
+SYSTEMROOT=C:\Windows
+TEMP=C:\Users\515259\AppData\Local\Temp
+TMP=C:\Users\515259\AppData\Local\Temp
+UATDATA=C:\Windows\CCM\UATData\D9F8C395-CAB8-491d-B8AC-179A1FE1BE77
+USERDNSDOMAIN=next.loc
+USERDOMAIN=NEXT
+USERDOMAIN_ROAMINGPROFILE=NEXT
+USERNAME=515259
+USERPROFILE=C:\Users\515259
+VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\
+WINDIR=C:\Windows
+ZES_ENABLE_SYSMAN=1
+TERM_PROGRAM=vscode
+TERM_PROGRAM_VERSION=1.76.2
+LANG=en_US.UTF-8
+COLORTERM=truecolor
+VSCODE_INJECTION=1
+
+
+System Information
+-------------------------
+
+Host Name:                 AAD-CND319502S
+OS Name:                   Microsoft Windows 10 Enterprise
+OS Version:                10.0.19045 N/A Build 19045
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          N/A
+Registered Organization:   N/A
+Product ID:                00330-80000-00000-AA138
+Original Install Date:     6/17/2023, 12:54:12 AM
+System Boot Time:          9/13/2023, 11:28:01 PM
+System Manufacturer:       HP
+System Model:              HP ZBook Fury 17.3 inch G8 Mobile Workstation PC
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 141 Stepping 1 GenuineIntel ~2496 Mhz
+BIOS Version:              HP T95 Ver. 01.12.00, 1/3/2023
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-us;English (United States)
+Input Locale:              th;Thai
+Time Zone:                 (UTC+07:00) Bangkok, Hanoi, Jakarta
+Total Physical Memory:     32,432 MB
+Available Physical Memory: 14,302 MB
+Virtual Memory: Max Size:  60,922 MB
+Virtual Memory: Available: 32,688 MB
+Virtual Memory: In Use:    28,234 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\AAD-CND319502S
+Hotfix(s):                 12 Hotfix(s) Installed.
+                           [01]: KB5028951
+                           [02]: KB5012170
+                           [03]: KB5015684
+                           [04]: KB5020683
+                           [05]: KB5026037
+                           [06]: KB5029244
+                           [07]: KB5014032
+                           [08]: KB5016705
+                           [09]: KB5020372
+                           [10]: KB5026879
+                           [11]: KB5028318
+                           [12]: KB5028380
+Network Card(s):           7 NIC(s) Installed.
+                           [01]: Intel(R) Wi-Fi 6 AX201 160MHz
+                                 Connection Name: Wi-Fi
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.1.1
+                                 IP address(es)
+                                 [01]: 192.168.1.37
+                                 [02]: fe80::8460:175c:ddde:30aa
+                           [02]: Bluetooth Device (Personal Area Network)
+                                 Connection Name: Bluetooth Network Connection
+                                 Status:          Media disconnected
+                           [03]: Hyper-V Virtual Ethernet Adapter
+                                 Connection Name: vEthernet (Default Switch)
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 172.30.192.1
+                                 [02]: fe80::d6a2:9b15:22ae:9c2e
+                           [04]: Intel(R) Ethernet Connection (14) I219-LM
+                                 Connection Name: Ethernet
+                                 Status:          Media disconnected
+                           [05]: Hyper-V Virtual Ethernet Adapter
+                                 Connection Name: vEthernet (WSL)
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 172.19.224.1
+                                 [02]: fe80::de5a:455:b5f0:ae11
+                           [06]: VirtualBox Host-Only Ethernet Adapter
+                                 Connection Name: Ethernet 2
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 192.168.50.1
+                                 [02]: fe80::c76d:f0d6:f8ba:7c8c
+                           [07]: VirtualBox Host-Only Ethernet Adapter
+                                 Connection Name: Ethernet 4
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 192.168.133.1
+                                 [02]: fe80::4ac6:6b7d:3be2:f1b
+Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.
+
+
+MAC Addresses
+-------------------------
+
+Connection Name:  Wi-Fi
+Network Adapter:  Intel(R) Wi-Fi 6 AX201 160MHz
+Physical Address: F0-D4-15-C7-9F-66
+Transport Name:   \Device\Tcpip_{8425DFF0-8A9E-4D0B-BD8E-C1F3CFA86E68}
+
+Connection Name:  Bluetooth Network Connection
+Network Adapter:  Bluetooth Device (Personal Area Network)
+Physical Address: F0-D4-15-C7-9F-6A
+Transport Name:   Media disconnected
+
+Connection Name:  vEthernet (Default Switch)
+Network Adapter:  Hyper-V Virtual Ethernet Adapter
+Physical Address: 00-15-5D-CB-24-D4
+Transport Name:   \Device\Tcpip_{F91339B1-5BCE-4E23-934A-BD08A5BBDC6A}
+
+Connection Name:  Ethernet
+Network Adapter:  Intel(R) Ethernet Connection (14) I219-LM
+Physical Address: E0-73-E7-F1-55-42
+Transport Name:   Media disconnected
+
+Connection Name:  vEthernet (WSL)
+Network Adapter:  Hyper-V Virtual Ethernet Adapter #2
+Physical Address: 00-15-5D-A9-8F-1A
+Transport Name:   \Device\Tcpip_{53FECBF2-23D8-4ABB-81DB-C5B6101031B6}
+
+Connection Name:  Ethernet 2
+Network Adapter:  VirtualBox Host-Only Ethernet Adapter #2
+Physical Address: 0A-00-27-00-00-0B
+Transport Name:   \Device\Tcpip_{7ADE2D00-FFED-45DD-AA5D-80A38D1A89E0}
+
+Connection Name:  Ethernet 4
+Network Adapter:  VirtualBox Host-Only Ethernet Adapter
+Physical Address: 0A-00-27-00-00-0F
+Transport Name:   \Device\Tcpip_{8C8B4EF0-9593-470F-B7FD-1036C6E9CF9B}
+
+
+IP Addresses
+-------------------------
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : AAD-CND319502S
+   Primary Dns Suffix  . . . . . . . : next.loc
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : next.loc
+                                       tnext.loc
+                                       print.tnext.loc
+                                       alstom.hub
+                                       bt.bombardier.net
+                                       amer.bombardier.com
+                                       apac.bombardier.com
+                                       atle.bombardier.com
+                                       cone.bombardier.com
+                                       scan.bombardier.com
+                                       alstom.com
+                                       bombardier.com
+                                       lnext.loc
+                                       snext.loc
+                                       bombardierinc.com
+                                       ebt.bombardier.net
+                                       avantgardportal.com
+                                       bombardier.net
+                                       azurewebsites.net
+                                       transport.alstom.com
+                                       aqlabs.tnext.loc
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Intel(R) Ethernet Connection (14) I219-LM
+   Physical Address. . . . . . . . . : E0-73-E7-F1-55-42
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Ethernet adapter vEthernet (Default Switch):
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Hyper-V Virtual Ethernet Adapter
+   Physical Address. . . . . . . . . : 00-15-5D-CB-24-D4
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::d6a2:9b15:22ae:9c2e%22(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 172.30.192.1(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.240.0
+   Default Gateway . . . . . . . . . : 
+   DHCPv6 IAID . . . . . . . . . . . : 369104221
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2C-77-DF-B4-E0-73-E7-F1-55-42
+   DNS Servers . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter vEthernet (WSL):
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Hyper-V Virtual Ethernet Adapter #2
+   Physical Address. . . . . . . . . : 00-15-5D-A9-8F-1A
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::de5a:455:b5f0:ae11%86(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 172.19.224.1(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.240.0
+   Default Gateway . . . . . . . . . : 
+   DHCPv6 IAID . . . . . . . . . . . : 1442846045
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2C-77-DF-B4-E0-73-E7-F1-55-42
+   DNS Servers . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter Ethernet 2:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : VirtualBox Host-Only Ethernet Adapter #2
+   Physical Address. . . . . . . . . : 0A-00-27-00-00-0B
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::c76d:f0d6:f8ba:7c8c%11(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.50.1(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+   DHCPv6 IAID . . . . . . . . . . . : 1426718759
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2C-77-DF-B4-E0-73-E7-F1-55-42
+   DNS Servers . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter Ethernet 4:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : VirtualBox Host-Only Ethernet Adapter
+   Physical Address. . . . . . . . . : 0A-00-27-00-00-0F
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::4ac6:6b7d:3be2:f1b%15(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.133.1(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+   DHCPv6 IAID . . . . . . . . . . . : 1359609895
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2C-77-DF-B4-E0-73-E7-F1-55-42
+   DNS Servers . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Wireless LAN adapter Local Area Connection* 8:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Physical Address. . . . . . . . . : F0-D4-15-C7-9F-67
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 10:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Physical Address. . . . . . . . . : F2-D4-15-C7-9F-66
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Intel(R) Wi-Fi 6 AX201 160MHz
+   Physical Address. . . . . . . . . : F0-D4-15-C7-9F-66
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::8460:175c:ddde:30aa%13(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.1.37(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Friday, September 15, 2023 8:35:13 PM
+   Lease Expires . . . . . . . . . . : Tuesday, September 19, 2023 11:21:17 AM
+   Default Gateway . . . . . . . . . : 192.168.1.1
+   DHCP Server . . . . . . . . . . . : 192.168.1.1
+   DHCPv6 IAID . . . . . . . . . . . : 451990549
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2C-77-DF-B4-E0-73-E7-F1-55-42
+   DNS Servers . . . . . . . . . . . : 192.168.1.1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   Physical Address. . . . . . . . . : F0-D4-15-C7-9F-6A
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+
+Processor ID
+-------------------------
+ProcessorId       
+
+BFEBFBFF000806D1  
+
+
+
+
+
+Hard Disk Status
+-------------------------
+SerialNumber                              Size          
+
+0000_0000_0000_0001_8CE3_8E10_00C0_AB61.  512105932800  
+
+
+
+
+
+User/Group Information
+-------------------------
+
+USER INFORMATION
+----------------
+
+User Name   SID                                                
+=========== ===================================================
+next\515259 S-1-12-1-2953682296-1222377009-489220496-3386511164
+
+
+GROUP INFORMATION
+-----------------
+
+Group Name                                Type             SID                                           Attributes                                        
+========================================= ================ ============================================= ==================================================
+Mandatory Label\Medium Mandatory Level    Label            S-1-16-8192                                                                                     
+Everyone                                  Well-known group S-1-1-0                                       Mandatory group, Enabled by default, Enabled group
+AAD-CND319502S\docker-users               Alias            S-1-5-21-423794936-3555903662-2801904939-1006 Mandatory group, Enabled by default, Enabled group
+BUILTIN\Administrators                    Alias            S-1-5-32-544                                  Group used for deny only                          
+BUILTIN\Users                             Alias            S-1-5-32-545                                  Mandatory group, Enabled by default, Enabled group
+NT AUTHORITY\INTERACTIVE                  Well-known group S-1-5-4                                       Mandatory group, Enabled by default, Enabled group
+CONSOLE LOGON                             Well-known group S-1-2-1                                       Mandatory group, Enabled by default, Enabled group
+NT AUTHORITY\Authenticated Users          Well-known group S-1-5-11                                      Mandatory group, Enabled by default, Enabled group
+NT AUTHORITY\This Organization            Well-known group S-1-5-15                                      Mandatory group, Enabled by default, Enabled group
+LOCAL                                     Well-known group S-1-2-0                                       Mandatory group, Enabled by default, Enabled group
+NT AUTHORITY\Cloud Account Authentication Well-known group S-1-5-64-36                                   Mandatory group, Enabled by default, Enabled group
+
+
+User Account
+-------------------------
+FullName                 Name                SID                                            
+
+Operator EBIScreen2000   ${OperatorName}     S-1-5-21-423794936-3555903662-2801904939-1010  
+
+EBIScreen EBIScreen2000  ${SystemName}       S-1-5-21-423794936-3555903662-2801904939-1009  
+
+                         Administrator       S-1-5-21-423794936-3555903662-2801904939-500   
+
+                         DefaultAccount      S-1-5-21-423794936-3555903662-2801904939-503   
+
+                         defaultuser0        S-1-5-21-423794936-3555903662-2801904939-1001  
+
+EBIScreen EBIScreen2000  EBIScreen           S-1-5-21-423794936-3555903662-2801904939-1007  
+
+                         Guest               S-1-5-21-423794936-3555903662-2801904939-501   
+
+Operator EBIScreen2000   Operator            S-1-5-21-423794936-3555903662-2801904939-1008  
+
+RemoteCtrlUser           RemoteCtrlUser      S-1-5-21-423794936-3555903662-2801904939-1005  
+
+                         WDAGUtilityAccount  S-1-5-21-423794936-3555903662-2801904939-504   
+
+                         WinAdmin16          S-1-5-21-423794936-3555903662-2801904939-1002  
+
+
+
+
+
+EBIScreen2000 Files
+-------------------------
+
+File                                                                                                      Product Version                                                      
+----                                                                                                      ---------------                                                      
+C:\EBIScreen2000\Client\AddOn\Autc.dll                                                                    5.7_20210622                                                         
+C:\EBIScreen2000\Client\AddOn\event.dll                                                                   5.9_20220930                                                         
+C:\EBIScreen2000\Client\AddOn\TrainAddon.dll                                                              5.9_20230110                                                         
+C:\EBIScreen2000\Client\ClientWD.exe                                                                      5.3                                                                  
+C:\EBIScreen2000\Client\CommandParser.dll                                                                 5.7_20210112                                                         
+C:\EBIScreen2000\Client\dlanlib8.dll                                                                      R4                                                                   
+C:\EBIScreen2000\Client\EbiAmqp.dll                                                                       5.6                                                                  
+C:\EBIScreen2000\Client\ebilib8U.dll                                                                      5.3                                                                  
+C:\EBIScreen2000\Client\ipccom28.dll                                                                      R4                                                                   
+C:\EBIScreen2000\Client\og1220asu.dll                                                                     12.2.0                                                               
+C:\EBIScreen2000\Client\qpid-proton-core.dll                                                                                                                                   
+C:\EBIScreen2000\Client\qpid-proton-cpp.dll                                                                                                                                    
+C:\EBIScreen2000\Client\qpid-proton-proactor.dll                                                                                                                               
+C:\EBIScreen2000\Client\RWUXThemeSU15.dll                                                                 12.2.0                                                               
+C:\EBIScreen2000\Client\sfl1220asu.dll                                                                    12.2.0                                                               
+C:\EBIScreen2000\Client\simplelib.dll                                                                     R4                                                                   
+C:\EBIScreen2000\Client\SubSysFrameX.dll                                                                  5.3                                                                  
+C:\EBIScreen2000\Client\TrainService.dll                                                                  5.7_20210519                                                         
+C:\EBIScreen2000\Client\UIC.exe                                                                           5.9_20230407                                                         
+C:\EBIScreen2000\DB-Engine\sacw3270.dll                                                                   7.0.0.41 Build 2018-12-04                                            
+C:\EBIScreen2000\DB-Engine\snpw3270.dll                                                                   7.0.0.41 Build 2018-12-04                                            
+C:\EBIScreen2000\DB-Engine\socw3270.dll                                                                   7.0.0.41 Build 2018-12-04                                            
+C:\EBIScreen2000\DB-Engine\solcon.exe                                                                     7.0.0.41 Build 2018-12-04                                            
+C:\EBIScreen2000\DB-Engine\soldd.exe                                                                      7.0.0.41 Build 2018-12-04                                            
+C:\EBIScreen2000\DB-Engine\solexp.exe                                                                     7.0.0.41 Build 2018-12-04                                            
+C:\EBIScreen2000\DB-Engine\solid.exe                                                                      7.0.0.41 Build 2018-12-04                                            
+C:\EBIScreen2000\DB-Engine\solload.exe                                                                    7.0.0.41 Build 2018-12-04                                            
+C:\EBIScreen2000\DB-Engine\solsql.exe                                                                     7.0.0.41 Build 2018-12-04                                            
+C:\EBIScreen2000\DB-Engine\sosw3270.dll                                                                   7.0.0.3 Build 2012-10-31                                             
+C:\EBIScreen2000\DB-Engine\ssaw3270.dll                                                                   7.0.0.41 Build 2018-12-04                                            
+C:\EBIScreen2000\DB-Engine\ssmw3270.dll                                                                   7.0.0.41 Build 2018-12-04                                            
+C:\EBIScreen2000\DB-Engine\ssolidac70.dll                                                                 7.0.0.41 Build 2018-12-04                                            
+C:\EBIScreen2000\DB-Engine\stcw3270.dll                                                                   7.0.0.41 Build 2018-12-04                                            
+C:\EBIScreen2000\EbiScreenUpdates\Client\UICData_ver_4.18.exe                                                                                                                  
+C:\EBIScreen2000\ExternalSW\.Net 4.6.2\NDP462-KB3151800-x86-x64-AllOS-ENU.exe                             4.6.01590.00                                                         
+C:\EBIScreen2000\ExternalSW\.Net 4.8\ndp48-x86-x64-allos-enu.exe                                          4.8.04115.00                                                         
+C:\EBIScreen2000\ExternalSW\Microsoft Visual C++ Redistributable for Visual Studio 2017\VC_redist.x86.exe 14.11.25325.0                                                        
+C:\EBIScreen2000\ExternalSW\Python\pywin32-218.win32-py3.3.exe                                                                                                                 
+C:\EBIScreen2000\Server\Autm.exe                                                                          5.5_20200717                                                         
+C:\EBIScreen2000\Server\AUTS.exe                                                                          5.9_20211018                                                         
+C:\EBIScreen2000\Server\broker-engine.dll                                                                 5.7_20210602                                                         
+C:\EBIScreen2000\Server\broker-ratoif.dll                                                                 5.9_20220715                                                         
+C:\EBIScreen2000\Server\btcore.dll                                                                        1.3.3.21                                                             
+C:\EBIScreen2000\Server\btrt.dll                                                                          1.4.0.12                                                             
+C:\EBIScreen2000\Server\btrt.opc.dll                                                                      1.1.0.8                                                              
+C:\EBIScreen2000\Server\btrt.snmp.exe                                                                     1.1.0.12                                                             
+C:\EBIScreen2000\Server\cdh.exe                                                                           5.6_20201029                                                         
+C:\EBIScreen2000\Server\cmm-command-indication.dll                                                        5.7_20210601                                                         
+C:\EBIScreen2000\Server\CommandParser.dll                                                                 5.7_20210112                                                         
+C:\EBIScreen2000\Server\ctcmom.exe                                                                        5.7_20210601                                                         
+C:\EBIScreen2000\Server\ctcmomengine.dll                                                                  5.7_20210601                                                         
+C:\EBIScreen2000\Server\DbCon.dll                                                                         5.3                                                                  
+C:\EBIScreen2000\Server\dlanlib8.dll                                                                      R4                                                                   
+C:\EBIScreen2000\Server\EbiAmqp.dll                                                                       5.6                                                                  
+C:\EBIScreen2000\Server\EbiDNS.exe                                                                        1.2.835.14                                                           
+C:\EBIScreen2000\Server\ebilib8U.dll                                                                      5.3                                                                  
+C:\EBIScreen2000\Server\EbiMq.dll                                                                         5.3                                                                  
+C:\EBIScreen2000\Server\EDI.exe                                                                           1.2.0.6                                                              
+C:\EBIScreen2000\Server\EH.exe                                                                            5.5_20200717                                                         
+C:\EBIScreen2000\Server\ETrace.dll                                                                        5.9_20221209                                                         
+C:\EBIScreen2000\Server\EventExport.exe                                                                   5.3                                                                  
+C:\EBIScreen2000\Server\IndicationService.dll                                                             5.3                                                                  
+C:\EBIScreen2000\Server\ipccom28.dll                                                                      R4                                                                   
+C:\EBIScreen2000\Server\ipccomc++.dll                                                                     R4                                                                   
+C:\EBIScreen2000\Server\ipccomu28.dll                                                                     R4                                                                   
+C:\EBIScreen2000\Server\IpcForServer.dll                                                                  5.3                                                                  
+C:\EBIScreen2000\Server\IpcForServerU.dll                                                                 5.3                                                                  
+C:\EBIScreen2000\Server\IPCMonitor.exe                                                                    5.3                                                                  
+C:\EBIScreen2000\Server\lmanager.exe                                                                      R4                                                                   
+C:\EBIScreen2000\Server\mdlanlib.dll                                                                      R4                                                                   
+C:\EBIScreen2000\Server\odbc++.dll                                                                                                                                             
+C:\EBIScreen2000\Server\PiEdi.exe                                                                         5.9_20230411                                                         
+C:\EBIScreen2000\Server\PiMsgPlayer.exe                                                                   5.3                                                                  
+C:\EBIScreen2000\Server\PiR4.exe                                                                          5.3                                                                  
+C:\EBIScreen2000\Server\PISdi.exe                                                                         5.9_20220902                                                         
+C:\EBIScreen2000\Server\PocoData.dll                                                                      1.4.6p3                                                              
+C:\EBIScreen2000\Server\PocoDataODBC.dll                                                                  1.4.6p3                                                              
+C:\EBIScreen2000\Server\PocoFoundation.dll                                                                1.4.6p3                                                              
+C:\EBIScreen2000\Server\PocoNet.dll                                                                       1.4.6p3                                                              
+C:\EBIScreen2000\Server\PocoUtil.dll                                                                      1.4.6p3                                                              
+C:\EBIScreen2000\Server\qpid-proton-core.dll                                                                                                                                   
+C:\EBIScreen2000\Server\qpid-proton-cpp.dll                                                                                                                                    
+C:\EBIScreen2000\Server\qpid-proton-proactor.dll                                                                                                                               
+C:\EBIScreen2000\Server\RailGraphX.dll                                                                    5.3                                                                  
+C:\EBIScreen2000\Server\RatoRs.exe                                                                        5.9_20221104                                                         
+C:\EBIScreen2000\Server\Ros.exe                                                                           5.9_20220815                                                         
+C:\EBIScreen2000\Server\SdiComm.dll                                                                       5.9_20220902                                                         
+C:\EBIScreen2000\Server\SdiCore.dll                                                                       5.9_20220902                                                         
+C:\EBIScreen2000\Server\simplelib.dll                                                                     R4                                                                   
+C:\EBIScreen2000\Server\SubSysFrameX.dll                                                                  5.3                                                                  
+C:\EBIScreen2000\Server\Tds.exe                                                                           5.9_20230316                                                         
+C:\EBIScreen2000\Server\tms-e2k-converter.dll                                                             5.9_20221110                                                         
+C:\EBIScreen2000\Server\TraceService.exe                                                                  1.0.1868.0                                                           
+C:\EBIScreen2000\Server\TrainingSim.exe                                                                   5.3                                                                  
+C:\EBIScreen2000\Server\TrainService.dll                                                                  5.7_20210519                                                         
+C:\EBIScreen2000\Server\TS.exe                                                                            5.9_20230417                                                         
+C:\EBIScreen2000\Server\uisrservice64.exe                                                                 R4                                                                   
+C:\EBIScreen2000\Server\VSLOG2.exe                                                                        5.3                                                                  
+C:\EBIScreen2000\Server\VSPLAYER.exe                                                                      5.3                                                                  
+C:\EBIScreen2000\Server\WaysideSup.exe                                                                    5.10_20211117                                                        
+C:\EBIScreen2000\Server\WDS_DE.exe                                                                        5.9_20221110                                                         
+C:\EBIScreen2000\Tools\ShareX\Languages\de\ShareX.HelpersLib.resources.dll                                13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\de\ShareX.HistoryLib.resources.dll                                13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\de\ShareX.ImageEffectsLib.resources.dll                           13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\de\ShareX.IndexerLib.resources.dll                                13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\de\ShareX.MediaLib.resources.dll                                  13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\de\ShareX.resources.dll                                           13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\de\ShareX.ScreenCaptureLib.resources.dll                          13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\de\ShareX.UploadersLib.resources.dll                              13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\es\ShareX.HelpersLib.resources.dll                                13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\es\ShareX.HistoryLib.resources.dll                                13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\es\ShareX.ImageEffectsLib.resources.dll                           13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\es\ShareX.resources.dll                                           13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\es\ShareX.ScreenCaptureLib.resources.dll                          13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\es\ShareX.UploadersLib.resources.dll                              13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\es-MX\ShareX.HelpersLib.resources.dll                             13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\es-MX\ShareX.HistoryLib.resources.dll                             13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\es-MX\ShareX.ImageEffectsLib.resources.dll                        13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\es-MX\ShareX.IndexerLib.resources.dll                             13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\es-MX\ShareX.MediaLib.resources.dll                               13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\es-MX\ShareX.resources.dll                                        13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\es-MX\ShareX.ScreenCaptureLib.resources.dll                       13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\es-MX\ShareX.UploadersLib.resources.dll                           13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\fa-IR\ShareX.HelpersLib.resources.dll                             13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\fa-IR\ShareX.HistoryLib.resources.dll                             13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\fa-IR\ShareX.ImageEffectsLib.resources.dll                        13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\fa-IR\ShareX.IndexerLib.resources.dll                             13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\fa-IR\ShareX.MediaLib.resources.dll                               13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\fa-IR\ShareX.resources.dll                                        13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\fa-IR\ShareX.ScreenCaptureLib.resources.dll                       13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\fa-IR\ShareX.UploadersLib.resources.dll                           13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\fr\ShareX.HelpersLib.resources.dll                                13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\fr\ShareX.HistoryLib.resources.dll                                13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\fr\ShareX.ImageEffectsLib.resources.dll                           13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\fr\ShareX.IndexerLib.resources.dll                                13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\fr\ShareX.MediaLib.resources.dll                                  13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\fr\ShareX.resources.dll                                           13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\fr\ShareX.ScreenCaptureLib.resources.dll                          13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\fr\ShareX.UploadersLib.resources.dll                              13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\hu\ShareX.HelpersLib.resources.dll                                13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\hu\ShareX.HistoryLib.resources.dll                                13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\hu\ShareX.ImageEffectsLib.resources.dll                           13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\hu\ShareX.resources.dll                                           13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\hu\ShareX.ScreenCaptureLib.resources.dll                          13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\hu\ShareX.UploadersLib.resources.dll                              13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\id-ID\ShareX.HelpersLib.resources.dll                             13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\id-ID\ShareX.ImageEffectsLib.resources.dll                        13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\id-ID\ShareX.MediaLib.resources.dll                               13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\id-ID\ShareX.resources.dll                                        13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\id-ID\ShareX.ScreenCaptureLib.resources.dll                       13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\id-ID\ShareX.UploadersLib.resources.dll                           13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\it-IT\ShareX.HelpersLib.resources.dll                             13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\it-IT\ShareX.HistoryLib.resources.dll                             13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\it-IT\ShareX.ImageEffectsLib.resources.dll                        13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\it-IT\ShareX.MediaLib.resources.dll                               13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\it-IT\ShareX.resources.dll                                        13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\it-IT\ShareX.ScreenCaptureLib.resources.dll                       13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\it-IT\ShareX.UploadersLib.resources.dll                           13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\ja-JP\ShareX.HelpersLib.resources.dll                             13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\ja-JP\ShareX.HistoryLib.resources.dll                             13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\ja-JP\ShareX.ImageEffectsLib.resources.dll                        13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\ja-JP\ShareX.IndexerLib.resources.dll                             13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\ja-JP\ShareX.MediaLib.resources.dll                               13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\ja-JP\ShareX.resources.dll                                        13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\ja-JP\ShareX.ScreenCaptureLib.resources.dll                       13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\ja-JP\ShareX.UploadersLib.resources.dll                           13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\ko-KR\ShareX.HelpersLib.resources.dll                             13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\ko-KR\ShareX.HistoryLib.resources.dll                             13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\ko-KR\ShareX.ImageEffectsLib.resources.dll                        13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\ko-KR\ShareX.IndexerLib.resources.dll                             13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\ko-KR\ShareX.MediaLib.resources.dll                               13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\ko-KR\ShareX.resources.dll                                        13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\ko-KR\ShareX.ScreenCaptureLib.resources.dll                       13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\ko-KR\ShareX.UploadersLib.resources.dll                           13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\nl-NL\ShareX.HelpersLib.resources.dll                             13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\nl-NL\ShareX.HistoryLib.resources.dll                             13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\nl-NL\ShareX.ImageEffectsLib.resources.dll                        13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\nl-NL\ShareX.MediaLib.resources.dll                               13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\nl-NL\ShareX.resources.dll                                        13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\nl-NL\ShareX.ScreenCaptureLib.resources.dll                       13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\nl-NL\ShareX.UploadersLib.resources.dll                           13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\pt-BR\ShareX.HelpersLib.resources.dll                             13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\pt-BR\ShareX.HistoryLib.resources.dll                             13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\pt-BR\ShareX.ImageEffectsLib.resources.dll                        13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\pt-BR\ShareX.MediaLib.resources.dll                               13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\pt-BR\ShareX.resources.dll                                        13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\pt-BR\ShareX.ScreenCaptureLib.resources.dll                       13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\pt-BR\ShareX.UploadersLib.resources.dll                           13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\pt-PT\ShareX.HelpersLib.resources.dll                             13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\pt-PT\ShareX.HistoryLib.resources.dll                             13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\pt-PT\ShareX.ImageEffectsLib.resources.dll                        13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\pt-PT\ShareX.IndexerLib.resources.dll                             13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\pt-PT\ShareX.MediaLib.resources.dll                               13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\pt-PT\ShareX.resources.dll                                        13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\pt-PT\ShareX.ScreenCaptureLib.resources.dll                       13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\pt-PT\ShareX.UploadersLib.resources.dll                           13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\ru\ShareX.HelpersLib.resources.dll                                13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\ru\ShareX.HistoryLib.resources.dll                                13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\ru\ShareX.ImageEffectsLib.resources.dll                           13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\ru\ShareX.IndexerLib.resources.dll                                13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\ru\ShareX.MediaLib.resources.dll                                  13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\ru\ShareX.resources.dll                                           13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\ru\ShareX.ScreenCaptureLib.resources.dll                          13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\ru\ShareX.UploadersLib.resources.dll                              13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\tr\ShareX.HelpersLib.resources.dll                                13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\tr\ShareX.HistoryLib.resources.dll                                13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\tr\ShareX.ImageEffectsLib.resources.dll                           13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\tr\ShareX.IndexerLib.resources.dll                                13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\tr\ShareX.MediaLib.resources.dll                                  13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\tr\ShareX.resources.dll                                           13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\tr\ShareX.ScreenCaptureLib.resources.dll                          13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\tr\ShareX.UploadersLib.resources.dll                              13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\uk\ShareX.HelpersLib.resources.dll                                13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\uk\ShareX.HistoryLib.resources.dll                                13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\uk\ShareX.ImageEffectsLib.resources.dll                           13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\uk\ShareX.IndexerLib.resources.dll                                13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\uk\ShareX.MediaLib.resources.dll                                  13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\uk\ShareX.resources.dll                                           13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\uk\ShareX.ScreenCaptureLib.resources.dll                          13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\uk\ShareX.UploadersLib.resources.dll                              13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\vi-VN\ShareX.HelpersLib.resources.dll                             13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\vi-VN\ShareX.HistoryLib.resources.dll                             13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\vi-VN\ShareX.ImageEffectsLib.resources.dll                        13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\vi-VN\ShareX.IndexerLib.resources.dll                             13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\vi-VN\ShareX.MediaLib.resources.dll                               13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\vi-VN\ShareX.resources.dll                                        13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\vi-VN\ShareX.ScreenCaptureLib.resources.dll                       13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\vi-VN\ShareX.UploadersLib.resources.dll                           13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\zh-CN\ShareX.HelpersLib.resources.dll                             13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\zh-CN\ShareX.HistoryLib.resources.dll                             13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\zh-CN\ShareX.ImageEffectsLib.resources.dll                        13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\zh-CN\ShareX.IndexerLib.resources.dll                             13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\zh-CN\ShareX.MediaLib.resources.dll                               13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\zh-CN\ShareX.resources.dll                                        13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\zh-CN\ShareX.ScreenCaptureLib.resources.dll                       13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\zh-CN\ShareX.UploadersLib.resources.dll                           13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\zh-TW\ShareX.HelpersLib.resources.dll                             13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\zh-TW\ShareX.HistoryLib.resources.dll                             13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\zh-TW\ShareX.ImageEffectsLib.resources.dll                        13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\zh-TW\ShareX.IndexerLib.resources.dll                             13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\zh-TW\ShareX.MediaLib.resources.dll                               13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\zh-TW\ShareX.resources.dll                                        13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\zh-TW\ShareX.ScreenCaptureLib.resources.dll                       13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\Languages\zh-TW\ShareX.UploadersLib.resources.dll                           13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\ShareX\Tools\ffmpeg.exe                                                                                                                          
+C:\EBIScreen2000\Tools\ShareX\FluentFTP.dll                                                               35.0.4                                                               
+C:\EBIScreen2000\Tools\ShareX\ImageListView.dll                                                           13.8.2.0                                                             
+C:\EBIScreen2000\Tools\ShareX\Interop.IWshRuntimeLibrary.dll                                              1.0.0.0                                                              
+C:\EBIScreen2000\Tools\ShareX\Interop.Shell32.dll                                                         1.0.0.0                                                              
+C:\EBIScreen2000\Tools\ShareX\MegaApiClient.dll                                                           1.9.0+Branch.tags-v1.9.0.Sha.c695f4ca36bb306f8a14b1774e783977c8ea2319
+C:\EBIScreen2000\Tools\ShareX\Newtonsoft.Json.dll                                                         13.0.1+ae9fe44e1323e91bcbd185ca1a14099fba7c021f                      
+C:\EBIScreen2000\Tools\ShareX\Recorder-devices-setup.exe                                                  0.12.10                                                              
+C:\EBIScreen2000\Tools\ShareX\Renci.SshNet.dll                                                            2020.0.1                                                             
+C:\EBIScreen2000\Tools\ShareX\ShareX.exe                                                                  13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\ShareX.HelpersLib.dll                                                       13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\ShareX.HistoryLib.dll                                                       13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\ShareX.ImageEffectsLib.dll                                                  13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\ShareX.IndexerLib.dll                                                       13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\ShareX.MediaLib.dll                                                         13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\ShareX.ScreenCaptureLib.dll                                                 13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\ShareX.UploadersLib.dll                                                     13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\ShareX_NativeMessagingHost.exe                                              13.6.1                                                               
+C:\EBIScreen2000\Tools\ShareX\zxing.dll                                                                   0.16.6.0                                                             
+C:\EBIScreen2000\Tools\ShareX\zxing.presentation.dll                                                      0.16.6.0                                                             
+C:\EBIScreen2000\Tools\Autofac.dll                                                                        4.6.2                                                                
+C:\EBIScreen2000\Tools\dlanlib8.dll                                                                       R4                                                                   
+C:\EBIScreen2000\Tools\ebilib8U.dll                                                                       5.3                                                                  
+C:\EBIScreen2000\Tools\EvhTool.exe                                                                        5.3                                                                  
+C:\EBIScreen2000\Tools\SB.exe                                                                             5.3                                                                  
+C:\EBIScreen2000\Tools\SdiConfigurator.exe                                                                0.9.7088.289                                                         
+C:\EBIScreen2000\Tools\simplelib.dll                                                                      R4                                                                   
+C:\EBIScreen2000\Tools\SM.exe                                                                             5.3                                                                  
+C:\EBIScreen2000\Tools\SMT.exe                                                                            5.3                                                                  
+C:\EBIScreen2000\Tools\STD.exe                                                                            5.3                                                                  
+C:\EBIScreen2000\Tools\sysman.exe                                                                         5.3                                                                  
+C:\EBIScreen2000\Tools\VB.exe                                                                             5.3                                                                  
+C:\EBIScreen2000\Tools\Version.exe                                                                        5.3                                                                  
+C:\EBIScreen2000\TSUI\zh-cn\TrainListClient.resources.dll                                                 1.0.5547.19344                                                       
+C:\EBIScreen2000\TSUI\zh-cn\ZedGraph.resources.dll                                                        5.1.5.16285                                                          
+C:\EBIScreen2000\TSUI\Aga.Controls.dll                                                                    1.7.5.0                                                              
+C:\EBIScreen2000\TSUI\Apache.NMS.dll                                                                      1.5.1                                                                
+C:\EBIScreen2000\TSUI\Apache.NMS.Stomp.dll                                                                1.5.3                                                                
+C:\EBIScreen2000\TSUI\log4net.dll                                                                         1.2                                                                  
+C:\EBIScreen2000\TSUI\Svg.dll                                                                             2.2.1.19227                                                          
+C:\EBIScreen2000\TSUI\TrainListClient.exe                                                                 5.9.6994.23065                                                       
+C:\EBIScreen2000\TSUI\tsuimsbitmaps.dll                                                                   1.0.8466.11309                                                       
+C:\EBIScreen2000\TSUI\ZedGraph.dll                                                                        5.1.6.0                                                              
+C:\EBIScreen2000\wildfly-10.1.0.Final\docs\contrib\scripts\service\amd64\wildfly-service.exe              1.0.15.0                                                             
+C:\EBIScreen2000\wildfly-10.1.0.Final\docs\contrib\scripts\service\wildfly-mgr.exe                        1.0.15.0                                                             
+C:\EBIScreen2000\wildfly-10.1.0.Final\docs\contrib\scripts\service\wildfly-service.exe                    1.0.15.0                                                             
+
+
+
+
+
+File                                                                                                      File Version             
+----                                                                                                      ------------             
+C:\EBIScreen2000\Client\AddOn\Autc.dll                                                                    1, 4, 2960, 21173        
+C:\EBIScreen2000\Client\AddOn\event.dll                                                                   1, 7, 3085, 22265        
+C:\EBIScreen2000\Client\AddOn\TrainAddon.dll                                                              1, 6, 3256, 23005        
+C:\EBIScreen2000\Client\ClientWD.exe                                                                      1, 0, 2218, 0            
+C:\EBIScreen2000\Client\CommandParser.dll                                                                 1, 4, 3208, 21012        
+C:\EBIScreen2000\Client\dlanlib8.dll                                                                      1,0,835,14               
+C:\EBIScreen2000\Client\EbiAmqp.dll                                                                       2, 1, 2049, 0            
+C:\EBIScreen2000\Client\ebilib8U.dll                                                                      1, 1, 2215, 0            
+C:\EBIScreen2000\Client\ipccom28.dll                                                                      2,2,835,14               
+C:\EBIScreen2000\Client\og1220asu.dll                                                                     12.2.0                   
+C:\EBIScreen2000\Client\qpid-proton-core.dll                                                                                       
+C:\EBIScreen2000\Client\qpid-proton-cpp.dll                                                                                        
+C:\EBIScreen2000\Client\qpid-proton-proactor.dll                                                                                   
+C:\EBIScreen2000\Client\RWUXThemeSU15.dll                                                                 12.2.0                   
+C:\EBIScreen2000\Client\sfl1220asu.dll                                                                    12.2.0                   
+C:\EBIScreen2000\Client\simplelib.dll                                                                     1,0,835,14               
+C:\EBIScreen2000\Client\SubSysFrameX.dll                                                                  2, 2, 1980, 0            
+C:\EBIScreen2000\Client\TrainService.dll                                                                  2, 4, 3541, 21139        
+C:\EBIScreen2000\Client\UIC.exe                                                                           1, 7, 3271, 23069        
+C:\EBIScreen2000\DB-Engine\sacw3270.dll                                                                   7.0.0.41 Build 2018-12-04
+C:\EBIScreen2000\DB-Engine\snpw3270.dll                                                                   7.0.0.41 Build 2018-12-04
+C:\EBIScreen2000\DB-Engine\socw3270.dll                                                                   7.0.0.41 Build 2018-12-04
+C:\EBIScreen2000\DB-Engine\solcon.exe                                                                     7.0.0.41 Build 2018-12-04
+C:\EBIScreen2000\DB-Engine\soldd.exe                                                                      7.0.0.41 Build 2018-12-04
+C:\EBIScreen2000\DB-Engine\solexp.exe                                                                     7.0.0.41 Build 2018-12-04
+C:\EBIScreen2000\DB-Engine\solid.exe                                                                      7.0.0.41 Build 2018-12-04
+C:\EBIScreen2000\DB-Engine\solload.exe                                                                    7.0.0.41 Build 2018-12-04
+C:\EBIScreen2000\DB-Engine\solsql.exe                                                                     7.0.0.41 Build 2018-12-04
+C:\EBIScreen2000\DB-Engine\sosw3270.dll                                                                   7.0.0.3 Build 2012-10-31 
+C:\EBIScreen2000\DB-Engine\ssaw3270.dll                                                                   7.0.0.41 Build 2018-12-04
+C:\EBIScreen2000\DB-Engine\ssmw3270.dll                                                                   7.0.0.41 Build 2018-12-04
+C:\EBIScreen2000\DB-Engine\ssolidac70.dll                                                                 7.0.0.41 Build 2018-12-04
+C:\EBIScreen2000\DB-Engine\stcw3270.dll                                                                   7.0.0.41 Build 2018-12-04
+C:\EBIScreen2000\EbiScreenUpdates\Client\UICData_ver_4.18.exe                                                                      
+C:\EBIScreen2000\ExternalSW\.Net 4.6.2\NDP462-KB3151800-x86-x64-AllOS-ENU.exe                             4.6.01590.00             
+C:\EBIScreen2000\ExternalSW\.Net 4.8\ndp48-x86-x64-allos-enu.exe                                          4.8.04115.00             
+C:\EBIScreen2000\ExternalSW\Microsoft Visual C++ Redistributable for Visual Studio 2017\VC_redist.x86.exe 14.11.25325.0            
+C:\EBIScreen2000\ExternalSW\Python\pywin32-218.win32-py3.3.exe                                                                     
+C:\EBIScreen2000\Server\Autm.exe                                                                          4, 3, 0, 0               
+C:\EBIScreen2000\Server\AUTS.exe                                                                          1, 3, 7670, 21257        
+C:\EBIScreen2000\Server\broker-engine.dll                                                                 2, 1, 3949, 21139        
+C:\EBIScreen2000\Server\broker-ratoif.dll                                                                 2, 4, 4034, 22189        
+C:\EBIScreen2000\Server\btcore.dll                                                                        1.3.3.21                 
+C:\EBIScreen2000\Server\btrt.dll                                                                          1.4.0.12                 
+C:\EBIScreen2000\Server\btrt.opc.dll                                                                      1.1.0.8                  
+C:\EBIScreen2000\Server\btrt.snmp.exe                                                                     1.1.0.12                 
+C:\EBIScreen2000\Server\cdh.exe                                                                           1, 3, 0, 0               
+C:\EBIScreen2000\Server\cmm-command-indication.dll                                                        2, 3, 7228, 21148        
+C:\EBIScreen2000\Server\CommandParser.dll                                                                 1, 4, 3208, 21012        
+C:\EBIScreen2000\Server\ctcmom.exe                                                                        2, 1, 6019, 21139        
+C:\EBIScreen2000\Server\ctcmomengine.dll                                                                  2, 1, 6019, 21139        
+C:\EBIScreen2000\Server\DbCon.dll                                                                         2, 1, 1697, 0            
+C:\EBIScreen2000\Server\dlanlib8.dll                                                                      1,0,835,14               
+C:\EBIScreen2000\Server\EbiAmqp.dll                                                                       2, 1, 2049, 0            
+C:\EBIScreen2000\Server\EbiDNS.exe                                                                        1.2.835.14               
+C:\EBIScreen2000\Server\ebilib8U.dll                                                                      1, 1, 2215, 0            
+C:\EBIScreen2000\Server\EbiMq.dll                                                                         2, 1, 1983, 0            
+C:\EBIScreen2000\Server\EDI.exe                                                                           1.2.0.6                  
+C:\EBIScreen2000\Server\EH.exe                                                                            7, 3, 0, 0               
+C:\EBIScreen2000\Server\ETrace.dll                                                                        2, 3, 2104, 22342        
+C:\EBIScreen2000\Server\EventExport.exe                                                                   1, 1, 6845, 0            
+C:\EBIScreen2000\Server\IndicationService.dll                                                             2, 2, 6625, 0            
+C:\EBIScreen2000\Server\ipccom28.dll                                                                      2,2,835,14               
+C:\EBIScreen2000\Server\ipccomc++.dll                                                                     ,,,                      
+C:\EBIScreen2000\Server\ipccomu28.dll                                                                     2,2,668,14               
+C:\EBIScreen2000\Server\IpcForServer.dll                                                                  2, 0, 1694, 0            
+C:\EBIScreen2000\Server\IpcForServerU.dll                                                                 2, 0, 1694, 0            
+C:\EBIScreen2000\Server\IPCMonitor.exe                                                                    1, 0, 6633, 0            
+C:\EBIScreen2000\Server\lmanager.exe                                                                      1,1,835,14               
+C:\EBIScreen2000\Server\mdlanlib.dll                                                                      1,1,835,14               
+C:\EBIScreen2000\Server\odbc++.dll                                                                                                 
+C:\EBIScreen2000\Server\PiEdi.exe                                                                         3, 2, 7751, 23100        
+C:\EBIScreen2000\Server\PiMsgPlayer.exe                                                                   1, 0, 6745, 0            
+C:\EBIScreen2000\Server\PiR4.exe                                                                          1, 0, 6645, 0            
+C:\EBIScreen2000\Server\PISdi.exe                                                                         1, 2, 7387, 22243        
+C:\EBIScreen2000\Server\PocoData.dll                                                                      1.4.6p3                  
+C:\EBIScreen2000\Server\PocoDataODBC.dll                                                                  1.4.6p3                  
+C:\EBIScreen2000\Server\PocoFoundation.dll                                                                1.4.6p3                  
+C:\EBIScreen2000\Server\PocoNet.dll                                                                       1.4.6p3                  
+C:\EBIScreen2000\Server\PocoUtil.dll                                                                      1.4.6p3                  
+C:\EBIScreen2000\Server\qpid-proton-core.dll                                                                                       
+C:\EBIScreen2000\Server\qpid-proton-cpp.dll                                                                                        
+C:\EBIScreen2000\Server\qpid-proton-proactor.dll                                                                                   
+C:\EBIScreen2000\Server\RailGraphX.dll                                                                    2, 2, 1981, 0            
+C:\EBIScreen2000\Server\RatoRs.exe                                                                        1, 5, 7161, 22296        
+C:\EBIScreen2000\Server\Ros.exe                                                                           1, 2, 7159, 22224        
+C:\EBIScreen2000\Server\SdiComm.dll                                                                       1, 1, 7172, 22243        
+C:\EBIScreen2000\Server\SdiCore.dll                                                                       1, 1, 7194, 22243        
+C:\EBIScreen2000\Server\simplelib.dll                                                                     1,0,835,14               
+C:\EBIScreen2000\Server\SubSysFrameX.dll                                                                  2, 2, 1980, 0            
+C:\EBIScreen2000\Server\Tds.exe                                                                           1, 3, 2978, 23074        
+C:\EBIScreen2000\Server\tms-e2k-converter.dll                                                             2, 3, 7228, 22314        
+C:\EBIScreen2000\Server\TraceService.exe                                                                  1.0.1868.0               
+C:\EBIScreen2000\Server\TrainingSim.exe                                                                   1, 1, 7151, 0            
+C:\EBIScreen2000\Server\TrainService.dll                                                                  2, 4, 3541, 21139        
+C:\EBIScreen2000\Server\TS.exe                                                                            2, 4, 4065, 23106        
+C:\EBIScreen2000\Server\uisrservice64.exe                                                                 3,1,835,14               
+C:\EBIScreen2000\Server\VSLOG2.exe                                                                        2, 1, 7153, 0            
+C:\EBIScreen2000\Server\VSPLAYER.exe                                                                      2, 1, 7154, 0            
+C:\EBIScreen2000\Server\WaysideSup.exe                                                                    1, 3, 7797, 21314        
+C:\EBIScreen2000\Server\WDS_DE.exe                                                                        1, 7, 1002, 22291        
+C:\EBIScreen2000\Tools\ShareX\Languages\de\ShareX.HelpersLib.resources.dll                                13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\de\ShareX.HistoryLib.resources.dll                                13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\de\ShareX.ImageEffectsLib.resources.dll                           13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\de\ShareX.IndexerLib.resources.dll                                13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\de\ShareX.MediaLib.resources.dll                                  13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\de\ShareX.resources.dll                                           13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\de\ShareX.ScreenCaptureLib.resources.dll                          13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\de\ShareX.UploadersLib.resources.dll                              13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\es\ShareX.HelpersLib.resources.dll                                13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\es\ShareX.HistoryLib.resources.dll                                13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\es\ShareX.ImageEffectsLib.resources.dll                           13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\es\ShareX.resources.dll                                           13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\es\ShareX.ScreenCaptureLib.resources.dll                          13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\es\ShareX.UploadersLib.resources.dll                              13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\es-MX\ShareX.HelpersLib.resources.dll                             13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\es-MX\ShareX.HistoryLib.resources.dll                             13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\es-MX\ShareX.ImageEffectsLib.resources.dll                        13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\es-MX\ShareX.IndexerLib.resources.dll                             13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\es-MX\ShareX.MediaLib.resources.dll                               13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\es-MX\ShareX.resources.dll                                        13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\es-MX\ShareX.ScreenCaptureLib.resources.dll                       13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\es-MX\ShareX.UploadersLib.resources.dll                           13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\fa-IR\ShareX.HelpersLib.resources.dll                             13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\fa-IR\ShareX.HistoryLib.resources.dll                             13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\fa-IR\ShareX.ImageEffectsLib.resources.dll                        13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\fa-IR\ShareX.IndexerLib.resources.dll                             13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\fa-IR\ShareX.MediaLib.resources.dll                               13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\fa-IR\ShareX.resources.dll                                        13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\fa-IR\ShareX.ScreenCaptureLib.resources.dll                       13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\fa-IR\ShareX.UploadersLib.resources.dll                           13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\fr\ShareX.HelpersLib.resources.dll                                13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\fr\ShareX.HistoryLib.resources.dll                                13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\fr\ShareX.ImageEffectsLib.resources.dll                           13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\fr\ShareX.IndexerLib.resources.dll                                13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\fr\ShareX.MediaLib.resources.dll                                  13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\fr\ShareX.resources.dll                                           13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\fr\ShareX.ScreenCaptureLib.resources.dll                          13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\fr\ShareX.UploadersLib.resources.dll                              13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\hu\ShareX.HelpersLib.resources.dll                                13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\hu\ShareX.HistoryLib.resources.dll                                13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\hu\ShareX.ImageEffectsLib.resources.dll                           13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\hu\ShareX.resources.dll                                           13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\hu\ShareX.ScreenCaptureLib.resources.dll                          13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\hu\ShareX.UploadersLib.resources.dll                              13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\id-ID\ShareX.HelpersLib.resources.dll                             13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\id-ID\ShareX.ImageEffectsLib.resources.dll                        13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\id-ID\ShareX.MediaLib.resources.dll                               13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\id-ID\ShareX.resources.dll                                        13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\id-ID\ShareX.ScreenCaptureLib.resources.dll                       13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\id-ID\ShareX.UploadersLib.resources.dll                           13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\it-IT\ShareX.HelpersLib.resources.dll                             13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\it-IT\ShareX.HistoryLib.resources.dll                             13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\it-IT\ShareX.ImageEffectsLib.resources.dll                        13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\it-IT\ShareX.MediaLib.resources.dll                               13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\it-IT\ShareX.resources.dll                                        13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\it-IT\ShareX.ScreenCaptureLib.resources.dll                       13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\it-IT\ShareX.UploadersLib.resources.dll                           13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\ja-JP\ShareX.HelpersLib.resources.dll                             13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\ja-JP\ShareX.HistoryLib.resources.dll                             13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\ja-JP\ShareX.ImageEffectsLib.resources.dll                        13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\ja-JP\ShareX.IndexerLib.resources.dll                             13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\ja-JP\ShareX.MediaLib.resources.dll                               13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\ja-JP\ShareX.resources.dll                                        13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\ja-JP\ShareX.ScreenCaptureLib.resources.dll                       13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\ja-JP\ShareX.UploadersLib.resources.dll                           13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\ko-KR\ShareX.HelpersLib.resources.dll                             13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\ko-KR\ShareX.HistoryLib.resources.dll                             13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\ko-KR\ShareX.ImageEffectsLib.resources.dll                        13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\ko-KR\ShareX.IndexerLib.resources.dll                             13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\ko-KR\ShareX.MediaLib.resources.dll                               13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\ko-KR\ShareX.resources.dll                                        13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\ko-KR\ShareX.ScreenCaptureLib.resources.dll                       13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\ko-KR\ShareX.UploadersLib.resources.dll                           13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\nl-NL\ShareX.HelpersLib.resources.dll                             13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\nl-NL\ShareX.HistoryLib.resources.dll                             13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\nl-NL\ShareX.ImageEffectsLib.resources.dll                        13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\nl-NL\ShareX.MediaLib.resources.dll                               13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\nl-NL\ShareX.resources.dll                                        13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\nl-NL\ShareX.ScreenCaptureLib.resources.dll                       13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\nl-NL\ShareX.UploadersLib.resources.dll                           13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\pt-BR\ShareX.HelpersLib.resources.dll                             13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\pt-BR\ShareX.HistoryLib.resources.dll                             13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\pt-BR\ShareX.ImageEffectsLib.resources.dll                        13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\pt-BR\ShareX.MediaLib.resources.dll                               13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\pt-BR\ShareX.resources.dll                                        13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\pt-BR\ShareX.ScreenCaptureLib.resources.dll                       13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\pt-BR\ShareX.UploadersLib.resources.dll                           13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\pt-PT\ShareX.HelpersLib.resources.dll                             13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\pt-PT\ShareX.HistoryLib.resources.dll                             13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\pt-PT\ShareX.ImageEffectsLib.resources.dll                        13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\pt-PT\ShareX.IndexerLib.resources.dll                             13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\pt-PT\ShareX.MediaLib.resources.dll                               13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\pt-PT\ShareX.resources.dll                                        13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\pt-PT\ShareX.ScreenCaptureLib.resources.dll                       13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\pt-PT\ShareX.UploadersLib.resources.dll                           13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\ru\ShareX.HelpersLib.resources.dll                                13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\ru\ShareX.HistoryLib.resources.dll                                13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\ru\ShareX.ImageEffectsLib.resources.dll                           13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\ru\ShareX.IndexerLib.resources.dll                                13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\ru\ShareX.MediaLib.resources.dll                                  13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\ru\ShareX.resources.dll                                           13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\ru\ShareX.ScreenCaptureLib.resources.dll                          13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\ru\ShareX.UploadersLib.resources.dll                              13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\tr\ShareX.HelpersLib.resources.dll                                13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\tr\ShareX.HistoryLib.resources.dll                                13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\tr\ShareX.ImageEffectsLib.resources.dll                           13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\tr\ShareX.IndexerLib.resources.dll                                13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\tr\ShareX.MediaLib.resources.dll                                  13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\tr\ShareX.resources.dll                                           13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\tr\ShareX.ScreenCaptureLib.resources.dll                          13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\tr\ShareX.UploadersLib.resources.dll                              13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\uk\ShareX.HelpersLib.resources.dll                                13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\uk\ShareX.HistoryLib.resources.dll                                13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\uk\ShareX.ImageEffectsLib.resources.dll                           13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\uk\ShareX.IndexerLib.resources.dll                                13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\uk\ShareX.MediaLib.resources.dll                                  13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\uk\ShareX.resources.dll                                           13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\uk\ShareX.ScreenCaptureLib.resources.dll                          13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\uk\ShareX.UploadersLib.resources.dll                              13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\vi-VN\ShareX.HelpersLib.resources.dll                             13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\vi-VN\ShareX.HistoryLib.resources.dll                             13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\vi-VN\ShareX.ImageEffectsLib.resources.dll                        13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\vi-VN\ShareX.IndexerLib.resources.dll                             13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\vi-VN\ShareX.MediaLib.resources.dll                               13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\vi-VN\ShareX.resources.dll                                        13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\vi-VN\ShareX.ScreenCaptureLib.resources.dll                       13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\vi-VN\ShareX.UploadersLib.resources.dll                           13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\zh-CN\ShareX.HelpersLib.resources.dll                             13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\zh-CN\ShareX.HistoryLib.resources.dll                             13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\zh-CN\ShareX.ImageEffectsLib.resources.dll                        13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\zh-CN\ShareX.IndexerLib.resources.dll                             13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\zh-CN\ShareX.MediaLib.resources.dll                               13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\zh-CN\ShareX.resources.dll                                        13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\zh-CN\ShareX.ScreenCaptureLib.resources.dll                       13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\zh-CN\ShareX.UploadersLib.resources.dll                           13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\zh-TW\ShareX.HelpersLib.resources.dll                             13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\zh-TW\ShareX.HistoryLib.resources.dll                             13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\zh-TW\ShareX.ImageEffectsLib.resources.dll                        13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\zh-TW\ShareX.IndexerLib.resources.dll                             13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\zh-TW\ShareX.MediaLib.resources.dll                               13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\zh-TW\ShareX.resources.dll                                        13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\zh-TW\ShareX.ScreenCaptureLib.resources.dll                       13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\Languages\zh-TW\ShareX.UploadersLib.resources.dll                           13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\ShareX\Tools\ffmpeg.exe                                                                              
+C:\EBIScreen2000\Tools\ShareX\FluentFTP.dll                                                               35.0.4.0                 
+C:\EBIScreen2000\Tools\ShareX\ImageListView.dll                                                           13.8.2.0                 
+C:\EBIScreen2000\Tools\ShareX\Interop.IWshRuntimeLibrary.dll                                              1.0.0.0                  
+C:\EBIScreen2000\Tools\ShareX\Interop.Shell32.dll                                                         1.0.0.0                  
+C:\EBIScreen2000\Tools\ShareX\MegaApiClient.dll                                                           1.9.0.0                  
+C:\EBIScreen2000\Tools\ShareX\Newtonsoft.Json.dll                                                         13.0.1.25517             
+C:\EBIScreen2000\Tools\ShareX\Recorder-devices-setup.exe                                                                           
+C:\EBIScreen2000\Tools\ShareX\Renci.SshNet.dll                                                            2020.0.1                 
+C:\EBIScreen2000\Tools\ShareX\ShareX.exe                                                                  13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\ShareX.HelpersLib.dll                                                       13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\ShareX.HistoryLib.dll                                                       13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\ShareX.ImageEffectsLib.dll                                                  13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\ShareX.IndexerLib.dll                                                       13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\ShareX.MediaLib.dll                                                         13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\ShareX.ScreenCaptureLib.dll                                                 13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\ShareX.UploadersLib.dll                                                     13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\ShareX_NativeMessagingHost.exe                                              13.6.1                   
+C:\EBIScreen2000\Tools\ShareX\zxing.dll                                                                   0.16.6.0                 
+C:\EBIScreen2000\Tools\ShareX\zxing.presentation.dll                                                      0.16.6.0                 
+C:\EBIScreen2000\Tools\Autofac.dll                                                                        4.6.2.0                  
+C:\EBIScreen2000\Tools\dlanlib8.dll                                                                       1,0,835,14               
+C:\EBIScreen2000\Tools\ebilib8U.dll                                                                       1, 1, 2215, 0            
+C:\EBIScreen2000\Tools\EvhTool.exe                                                                        1, 0, 2787, 0            
+C:\EBIScreen2000\Tools\SB.exe                                                                             1, 0, 2224, 0            
+C:\EBIScreen2000\Tools\SdiConfigurator.exe                                                                0.9.7088.289             
+C:\EBIScreen2000\Tools\simplelib.dll                                                                      1,0,835,14               
+C:\EBIScreen2000\Tools\SM.exe                                                                             1, 1, 2225, 0            
+C:\EBIScreen2000\Tools\SMT.exe                                                                            1, 1, 3016, 0            
+C:\EBIScreen2000\Tools\STD.exe                                                                            1, 0, 2227, 0            
+C:\EBIScreen2000\Tools\sysman.exe                                                                         2, 0, 3089, 0            
+C:\EBIScreen2000\Tools\VB.exe                                                                             1, 0, 2437, 0            
+C:\EBIScreen2000\Tools\Version.exe                                                                        1, 0, 1702, 0            
+C:\EBIScreen2000\TSUI\zh-cn\TrainListClient.resources.dll                                                 1.0.5547.19344           
+C:\EBIScreen2000\TSUI\zh-cn\ZedGraph.resources.dll                                                        5.1.5.16285              
+C:\EBIScreen2000\TSUI\Aga.Controls.dll                                                                    1.7.5.0                  
+C:\EBIScreen2000\TSUI\Apache.NMS.dll                                                                      1.5.1.2739               
+C:\EBIScreen2000\TSUI\Apache.NMS.Stomp.dll                                                                1.5.3.2795               
+C:\EBIScreen2000\TSUI\log4net.dll                                                                         1.2.15.0                 
+C:\EBIScreen2000\TSUI\Svg.dll                                                                             2.2.1.19227              
+C:\EBIScreen2000\TSUI\TrainListClient.exe                                                                 5.9.6994.23065           
+C:\EBIScreen2000\TSUI\tsuimsbitmaps.dll                                                                   1.0.8466.11309           
+C:\EBIScreen2000\TSUI\ZedGraph.dll                                                                        5.1.6.0                  
+C:\EBIScreen2000\wildfly-10.1.0.Final\docs\contrib\scripts\service\amd64\wildfly-service.exe              1.0.15.0                 
+C:\EBIScreen2000\wildfly-10.1.0.Final\docs\contrib\scripts\service\wildfly-mgr.exe                        1.0.15.0                 
+C:\EBIScreen2000\wildfly-10.1.0.Final\docs\contrib\scripts\service\wildfly-service.exe                    1.0.15.0                 
+
+
+
+
+-------------------------
+System information saved
